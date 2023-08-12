@@ -1,0 +1,16 @@
+[
+    {
+        "LoginID": "alpha",
+        "FirstName": "al",
+        "LastName": "pha",
+        "Mail": "alpha@example.com",
+        "Password": ""
+    },
+    {
+        "LoginID": "beta",
+        "FirstName": "be",
+        "LastName": "ta",
+        "Mail": "beta@example.com",
+        "Password": ""
+    }
+]
