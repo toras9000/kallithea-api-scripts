@@ -1,4 +1,4 @@
-#r "nuget: Lestaly, 0.44.0"
+#r "nuget: Lestaly, 0.51.0"
 #nullable enable
 using Lestaly;
 
